@@ -16,7 +16,7 @@ Run: `brew install elixir`
 
 `elixir --version`  
 
-## To Checkout the source to local
+## To clone the repo
 
 with the command line  
 "cd" to desired directory  
@@ -24,7 +24,7 @@ clone the repo with the clone url
 
 `git clone git@github.com:rajivmanivannan/Learn-Elixir.git`
 
-## To Compile and Run
+## To compile and run
 
 To use the elixir shell use the `iex` command.  
 Compile your modules with the `elixirc` command.  
