@@ -1,9 +1,9 @@
-# Learn_Elixir
+# Learn-Elixir
 To learn the basic of the Elixir.
 
 ## Installation
 
-Mac OS X  
+### Mac OS X  
 Homebrew  
 Update your homebrew to latest: `brew update`  
 Run: `brew install elixir`  
